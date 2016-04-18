@@ -10,7 +10,8 @@ version ="1.0.0">
 <name>Aplicacion dos Semana Santa</name>
 
 <description>
-Aplicacion que muestra como se celebra la Semana Santa en Atlixco</description>
+Aplicacion que muestra como se celebra la Semana Santa en Atlixco
+</description>
 
 <preference name="phonegap-version" value="3.1.0"/>
 
