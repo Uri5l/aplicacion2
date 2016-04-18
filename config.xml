@@ -7,11 +7,10 @@ version ="1.0.0">
 
 <!-- versionCode is optional and Android only -->
 
-<name>Aplicacion uno DATOSALUMNOS</name>
+<name>Aplicacion dos Semana Santa</name>
 
 <description>
-Aplicacion que muestra los datos del alumno
-</description>
+Aplicacion que muestra como se celebra la Semana Santa en Atlixco</description>
 
 <preference name="phonegap-version" value="3.1.0"/>
 
